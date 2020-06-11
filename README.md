@@ -1,7 +1,7 @@
 # WHMCS Multisite/Network Provisioning
 I am maintaining this project with releases. Each stable version release is fine to use in production.
 
-| After an extensive audit, the current production release has been deemed stable. You can use this in a production enviroment.<br>If you find any bugs or issues please submit an issue to this repository. |
+| After an extensive audit, the current production release has been deemed stable.<br>You can use this in a production enviroment.<br>If you find any bugs or issues please submit an issue to this repository. |
 | --- |
 
 ### License:
